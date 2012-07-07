@@ -1,0 +1,9 @@
+D:\Temp\TNLivePlaya\TNLivePlaya\bin\Debug\TNLivePlaya.exe
+D:\Temp\TNLivePlaya\TNLivePlaya\bin\Debug\TNLivePlaya.pdb
+D:\Temp\TNLivePlaya\TNLivePlaya\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\TNLivePlaya\TNLivePlaya\obj\x86\Debug\TNLivePlaya.Playa.resources
+D:\Temp\TNLivePlaya\TNLivePlaya\obj\x86\Debug\TNLivePlaya.Properties.Resources.resources
+D:\Temp\TNLivePlaya\TNLivePlaya\obj\x86\Debug\TNLivePlaya.exe
+D:\Temp\TNLivePlaya\TNLivePlaya\obj\x86\Debug\TNLivePlaya.pdb
+D:\Temp\TNLivePlaya\TNLivePlaya\obj\x86\Debug\ResGen.read.1.tlog
+D:\Temp\TNLivePlaya\TNLivePlaya\obj\x86\Debug\ResGen.write.1.tlog
